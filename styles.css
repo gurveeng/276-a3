@@ -33,12 +33,22 @@ body {
     background-color: #6cd7a4;
     border-radius: 17px;
     display: flex;
+    text-decoration: none;
+}
+
+.featured-link:hover {
+    box-shadow: 0 4px 8px #6cd7a4;
 }
 
 .playlists-link {
     background-color: #b793db;
     border-radius: 17px;
     display: flex;
+    text-decoration: none;
+}
+
+.playlists-link:hover {
+    box-shadow: 0 4px 8px #b793db;
 }
 
 .playlists-link img {
