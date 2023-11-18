@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    background-image: radial-gradient(at center bottom, rgb(187, 247, 208), rgb(134, 239, 172), rgb(59, 130, 246));
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#container {
+    flex: 1;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    grid-gap: 20px;
+    min-width: 90vw;
+    min-height: 70vh;
+    padding: 70px;
+}
+
+.bio p {
+    opacity: 1;
+    font-size: 50px;
+}
+
+.bio {
+    grid-row: span 2;
+    border-radius: 17px;
+    
+}
+
+
+.featured-link {
+    background-color: #6cd7a4;
+    border-radius: 17px;
+    display: flex;
+}
+
+.playlists-link {
+    background-color: #b793db;
+    border-radius: 17px;
+    display: flex;
+}
+
+.playlists-link img {
+    grid-column: span 1;
+}
+
+.playlists-link p {
+    grid-column: span 3;
+}
+
+.grid-item {
+    padding: 20px;
+    overflow: hidden;
+}
+
+#title-header {
+    flex:1;
+    align-items: center;
+    text-align: center;
+    min-height: 10vh;
+    margin-top: 20px;
+}
+
+h1 {
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+p {
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 20px;
+}
