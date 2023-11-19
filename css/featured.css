@@ -18,6 +18,13 @@ body {
 
 .featured {
     display: flex;
+    margin: 70px;
+}
+
+.featured p {
+    color: white;
+    margin: 30px;
+    font-size: 18px;
 }
 
 #featured-1 {
@@ -25,10 +32,20 @@ body {
 }
 
 #featured-1 p {
-    color: white;
-    margin: 50px;
-    font-size: 18px;
     max-width: 50%;
+}
+
+#featured-2 p {
+    margin-top: 80px;
+}
+
+#featured-4 p {
+    max-width: 50%;
+    margin-top: 60px;
+}
+
+#featured-5 p {
+    margin-top: 80px;
 }
 
 
