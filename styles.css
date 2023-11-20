@@ -13,20 +13,20 @@ body {
 
 #header img {
     max-height: 12vh;
-    margin: 8px;
+    margin: 7px;
     cursor: pointer;
 }
 
-#header a {
-    position: fixed; /* Fix the position */
-    right: 20px; /* Adjust the distance from the right side */
-    top: 5px;
-    background-color: #313eb6; /* Button background color */
-    color: #fff; /* Button text color */
-    padding: 10px 20px; /* Padding for the button */
-    border-radius: 5px; /* Rounded corners */
-    text-decoration: none; /* Remove underline for anchor tag */
-    z-index: 999; /
+#about {
+    position: absolute; 
+    right: 20px; 
+    top: 12px;
+    background-color: #313eb6; 
+    color: #fff; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    text-decoration: none; 
+    z-index: 999; 
 }
 
 #container {
