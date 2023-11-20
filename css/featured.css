@@ -5,6 +5,27 @@ body {
     flex-direction: column;
 }
 
+#header {
+    max-height: 6vh;
+}
+
+#header img {
+    max-height: 12vh;
+    margin: 7px;
+    cursor: pointer;
+}
+
+#header a {
+    position: absolute; 
+    right: 20px; 
+    top: 12px;
+    background-color: #313eb6; 
+    color: #fff; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    text-decoration: none; 
+    z-index: 999; 
+}
 
 
 #title {
