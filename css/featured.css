@@ -15,7 +15,7 @@ body {
     cursor: pointer;
 }
 
-#header a {
+#about {
     position: absolute; 
     right: 20px; 
     top: 12px;
