@@ -1,24 +1,19 @@
 # nepTUNE
 
-Welcome to nepTUNE, a Music Discovery Platform designed to help you explore new music, discover emerging artists, and enjoy curated playlists.
+This project is a music discovery platform called nepTUNE. It's designed to showcase new music releases, provide insights into featured artists, songs, albums, and offer curated playlists across various genres.
 
-## Overview
+## Website Link
 
-nepTUNE is a platform dedicated to music enthusiasts seeking fresh sounds and hidden gems. 
+[Link to nepTUNE](https://gurveeng.github.io/276-a3/)
 
-## Features
+## Technology Stack
 
-- **Home Page:** Introduces nepTUNE's features and navigation.
-- **Trending/New Artists and Tracks:** Discover the latest tracks by emerging artists with brief bios.
-- **Playlists:** Explore curated playlists based on different genres, moods, and themes.
+The website was developed using the following technology stack:
 
+- HTML5
+- CSS3
+- GitHub Pages for deployment
 
-## Usage
+### Why MIT License?
 
-1. **Home Page:** Navigate through the different sections and explore our platform's features.
-2. **Trending/New Artists and Tracks:** Check out the latest releases and discover new talent.
-3. **Playlists:** Dive into curated playlists for various musical tastes.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The MIT License was selected for its permissive nature, enabling users to freely utilize, modify, and distribute the software with minimal constraints.
