@@ -6,6 +6,10 @@ This project is a music discovery platform called nepTUNE. It's designed to show
 
 [Link to nepTUNE](https://gurveeng.github.io/276-a3/)
 
+## Wireframes
+
+[Link to wireframes PDF](/a3-wireframes.pdf)
+
 ## Technology Stack
 
 The website was developed using the following technology stack:
